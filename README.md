@@ -8,9 +8,9 @@
 These are some of the technologies and tools that I work with:
 
 
-
-![React Native](https://img.shields.io/badge/-React\-Native-007396?style=flat-square&logo=react-native&logoColor=white)
 ![React](https://img.shields.io/badge/-React-007396?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React\-Native-007396?style=flat-square&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-007396?style=flat-square&logo=redux)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
