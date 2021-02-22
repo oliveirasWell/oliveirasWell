@@ -3,6 +3,9 @@
 - 🔭 I’m currently working on @dextra with Javascript, Node, React Native and the React universe.
 - 🌱 I’m currently learning Big Data at UFSCAR Computer Science Msc, working with Spark and bipartite graphs
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiraswell&count_private=true)
+
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
