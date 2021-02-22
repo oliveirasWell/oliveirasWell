@@ -1,13 +1,10 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiraswell&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraswell&langs_count=8&count_private=true)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on @dextra with Javascript, Node, React Native and the React universe.
 - 🌱 I’m currently learning Big Data at UFSCAR Computer Science Msc, working with Spark and bipartite graphs
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiraswell&count_private=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraswell&layout=compact&langs_count=8&count_private=true)
-
 
 ## ⚡ Technologies
 
