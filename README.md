@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiraswell&count_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraswell&layout=compact&langs_count=8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraswell&layout=compact&langs_count=8&count_private=true)
 
 
 ## ⚡ Technologies
