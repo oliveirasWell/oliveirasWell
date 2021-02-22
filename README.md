@@ -29,8 +29,7 @@ These are some of the technologies and tools that I work with:
 
 ## ⚡ Stats
 
-![Oliveiraswell's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiraswell&count_private=true)
-![Oliveiraswell's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraswell&langs_count=8&layout=compact&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraswell&layout=compact&langs_count=10&theme=tokyonight)
+![Oliveiraswell's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiraswell&count_private=true&theme=tokyonight)
+![Oliveiraswell's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraswell&langs_count=8&layout=compact&count_private=true&theme=tokyonight)
 ![Oliveiraswell's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oliveiraswell&theme=tokyonight)
 
