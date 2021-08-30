@@ -2,8 +2,12 @@
 
 ### Hi there 🤙
 
-- I’m currently working at @bairesdev with Javascript, Node, React Native and the React universe.
-- I’m currently learning Big Data at UFSCAR Computer Science Msc, working with Spark and bipartite graphs
+My name is Wellington Oliveira, I do a lot of stuff but, in short, is just this today
+
+- I’m currently working at @bairesdev with Javascript, React Native, Node.js, and the React universe.
+- I’m currently learning Big Data at UFSCAR Computer Science Msc, working with Spark and bipartite graphs.
+
+if you want to know more be my guest and see my (website)[http://oliveiraswell.github.io/].
 
 ## ⚡ Technologies
 
