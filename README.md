@@ -7,7 +7,7 @@ Today, my major work is:
 
 - I’m currently working at @bairesdev with Javascript, React Native, Node.js, and the React universe.
 - I’m currently learning Big Data at UFSCAR Computer Science Msc, working with Spark and bipartite graphs.
-- Find a work in data analysis and machine learning :) 
+- Trying to find a job in data analysis and machine learning :) 
 
 if you want to know more be my guest and see my [website](http://oliveiraswell.github.io).
 
